@@ -36,7 +36,7 @@ $cards = $cards[0..20]
 
 $pile1 = $cards[0..6]
 $pile2 = $cards[7..13]
-$pile3 = $cards[13..20]
+$pile3 = $cards[14..20]
 
 Write-Output "1: $pile1"
 Write-Output "2: $pile2"
